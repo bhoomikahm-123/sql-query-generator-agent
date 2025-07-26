@@ -24,12 +24,12 @@ Convert plain English into accurate SQL queries using OpenAI and Streamlit.
 
 ## 📁 Project Structure
 
-sql-query-generator-agent/
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── screenshots/
+sql-query-generator-agent:
+- app.py
+- requirements.txt
+- README.md
+- .gitignore
+- screenshots/
 
 ## 🚀 Getting Started
 
@@ -39,7 +39,7 @@ sql-query-generator-agent/
 git clone https://github.com/your-username/sql-query-generator-agent.git
 cd sql-query-generator-agent
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py  ```
 
 🔐 Set API Key
 Create a .streamlit/secrets.toml file (DO NOT upload this to GitHub):
