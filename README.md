@@ -36,10 +36,11 @@ sql-query-generator-agent:
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/sql-query-generator-agent.git
+git clone https://github.com/bhoomika-hm/sql-query-generator-agent.git
 cd sql-query-generator-agent
 pip install -r requirements.txt
-streamlit run app.py  ```
+streamlit run app.py
+```
 
 🔐 Set API Key
 Create a .streamlit/secrets.toml file (DO NOT upload this to GitHub):
