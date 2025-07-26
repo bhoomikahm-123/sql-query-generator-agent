@@ -46,9 +46,11 @@ streamlit run app.py
 Create a .streamlit/secrets.toml file (DO NOT upload this to GitHub):
 openrouter_api_key = "your-openrouter-api-key"
 
+
 🙋‍♀️ Author
 Bhoomika HM
-🔗 Connect on LinkedIn
+🔗[Connect on LinkedIn](https://www.linkedin.com/in/bhoomika-hm-b41681291/)
+
 
 📜 License
 This project is open-source and available under the MIT License.
